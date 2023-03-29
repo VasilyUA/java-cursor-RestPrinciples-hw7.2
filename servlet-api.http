@@ -1,0 +1,4 @@
+GET http://localhost:5000/java-cursor-RestPrinciples-hw7-1.0-SNAPSHOT/myservlet?name=John&mood=happy
+Accept: application/json
+Content-Type: application/json
+place: Kiev
